@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Popular Books",
+        "horizontal":false,
+        "data": [
+            {
+                "title": "Fashionoplis",
+                "writer": "Dana Thomas",
+                "cover": "https://s3-alpha-sig.figma.com/img/8098/894d/9cc9f0e42326b7024eeac18ad09f3c8e?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y6-LtnX1Bvwl16jNvmviTR72OWBZxOORGhIULx3ysNWFRKQe3AMHmi21rfP63zWOG70cTROT4LdfZb5FOAH7lTXUa2pCdcgmGZL2ay8jnWPyLj303XdkWBiwPjZ1I3jDXalYbi7O7L6SLwxTGhgl4pTBp~d6n8ZT9~p5xO3uUazS9uCNWhDplZn3ypdt15tLXDfGK5SMlXTBwCfyMDwU-Ja5Jmi6WuzelsvmlccCuyecY1c8VnRMCPUUioksIdfM-BdX1wytiJ4eDfFaQB9vrRRWTnnZIYf0ctMZ-hiWbyy5ERcIWza8wRPcvcJDMZx39-qeHi1vOX4HJsl4U4rpjA__",
+                "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
+                "id":1,
+                "rate":false
+            },
+            {
+                "title": "Chanel",
+                "writer": "Patrick Mauries",
+                "cover": "https://s3-alpha-sig.figma.com/img/5f46/02e2/8ad53ad8b0bfa50c9d279b4a3505fdf1?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WTFJKpDztnJwWtmCDZTkgQD~Nm7ZvRTYD2Ok7~Eah8H73lzM3GAUz682iJMUcYl1S-AXGx-2iWUkb5sDY8H0CNBXLvvK7biWTW1b4Czj4Xx603hExB~JHWYNvXg5q0Iu5~gHslSFKDxGjKoTDoE2BJQHPN7Pfq5BePvI1CVM1cx6P8qdtgPLovRI8fl4pZJ14nkIJE5cl-BEaiLU0-HML4qvJCrGnt-Y~oUGeenO7RcXAiPBS6FwdYiZ9T75zymU-vq22hw1Xxg6gwO6sV6cEM4QWziSH2Tf5Y5W8Ad3EGkfjQ0S9x4yeju9j3I4qnRSybD38xiC1fhOMguWYHEH9Q__",
+                "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
+                "id":2,
+                "rate":false
+            },
+            {
+                "title": "Calligraphy",
+                "writer": "June&Lucy",
+                "cover": "https://s3-alpha-sig.figma.com/img/fe9a/15a4/83200d80b67a4555c8b4a19b8073085e?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qe0S8hCLF23QJysW7w37QAlPjasvPNpzfXQoTr-88HfgmDNO3KfmG9ZmLfkH6UUoNRLE7hTJb4mvgqAndbYm6hcpET41cW2~M78EuNtBdo3-inF8mJJn1XRH3mkkFVssVsRkpwHax0mylFUWB26ZRzZQPt32jrXMJssr21yQNLpqvpGKtpDRosqOZn~XGNhF-D70gi9pBwUPtJutWqMPv6tMSbaIcWTIJg6SPnYQyQOIX5UpKfGyedbGVZhmP5gOBQq5bf4ei26eJDpMqMIqiImfO72RddSvsYbdVfJKJzhq5MBLxEIHjmDYrVp6mMS5yLHeISIQ12zawwBMtCPKmQ__",
+                "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
+                "id":3,
+                "rate":false
+            }
+        ]
+    },
+    {
+        "title": "Newest",
+        "horizontal":false,
+        "data": [
+            {
+                "title": "Yves Saint Laurent",
+                "writer": "Catwalk",
+                "cover": "https://s3-alpha-sig.figma.com/img/e458/6c5d/7372d2e5458827acd2b41e8111f153e7?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HWi4IEYtAZ~G6uzbBo0xS2oNo0MMGBrpQJu7pxl6RTQZAp7C5db66l2arzfypKG9k9H1UIkw3jl8gDjnNEM4XF7nbT9UIVCfm3r~fVH8hn-E7slvyTl0B5Fzwv-25KHfyD5W5UlPxM-eGOp156IUOM7EZoArfw2x0kKgdWkFZUnE05~aieMk9ACKLAgDDMfUDiBkSBv5Cr7cRr29PbffQu8mbtmACcIIArYbTtDVr8u60iHpwWft0zae9p3rJpz1aSZYJUK-jxBNXMtNNyprIdyXRWGDEJP7S~QiGFYdRvF1KFwJgL1QgSPcpMyddkg4lDr2KAhIxJWDKFL3m0ohkQ__",
+                "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
+                "id":4,
+                "rate":true
+            },
+            {
+                "title": "The Book of Signs",
+                "writer": "Rudolf Koch",
+                "cover": "https://s3-alpha-sig.figma.com/img/a6b7/c8c7/3db01feb6161a1c16f579aa23c453740?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kBfz~Gd4W~xxQ6-Pe0QQ~zRM8HR1XAyMgWxZW9KKhVLmkXATKWXK08cHQ9Sx-n5mHm6nvSeTD6TEnbBeKkq48PrX55aJopq5lDnCQO21I2VE7sJ5TV42txFuIX6MdwWlt3NI7OFZjJgzMds3d3TNiBeLKDkTwsIPbtMl9CAZtmPvmjA1wvvatEkGs18p82PX7YmSRwTOPwlQjJeyh1qftF~5Z-OQgOSNaD8GOqHK~nccXuTiNnUts6QzPpHwrX9gVKkNIxvXK2GNucfCCngLgGCDbwoDIWYpkUmtMMcRwN7Tj0SFKaPoiZtmO3fcazIEqciB3PdPFIP21QcB~-mNIQ__",
+                "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
+                "id":5,
+                "rate":true
+            },
+            {
+                "title": "Stitched Up",
+                "writer": "Tansy E.Hoskins",
+                "cover": "https://s3-alpha-sig.figma.com/img/185c/7484/56dfcaedefa45ba02fe6718c381bbf99?Expires=1713139200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dxh4KmXLJReCdnRDpIEUwM34OYTerTD3AHGB2PxTGa7TXFbs6JWTKzIghlQkSeXGY50ok3359zQx3E~evkAq22giW6cMvMMt-20cCiZSBTRPfsdJz5Lsi1KifK2MKr--Hrg4cZpiLO3xLAk-D6tqYmoMzIuZzsRwVQucbMIx5nBZzxFzwg1oTYlOR5e7Bs8CPy2l44QQwvOgVLNnP3q8iMmO~Wc0NFozRoBLPSvpmstzsUKkpEjK4-Y6ImlqCIGslwqWiChk-eCYodTt0STvrNMCJqByo0L9yuJvSAN5DSMoLc~n-lYq9EDMnMbMm65GOlhD4TMz4avYeEnUrFgj2A__",
+                "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
+                "id":6,
+                "rate":true
+            }
+        ]
+    }
+]
